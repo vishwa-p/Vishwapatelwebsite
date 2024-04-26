@@ -4,7 +4,7 @@
 
 ## Preview
 
-[![Resume Preview](https://vishwapatelwebsite.vercel.app/index2.html](https://blackrockdigital.github.io/startbootstrap-resume/)
+
 
 **[View Live Preview](https://vishwapatelwebsite.vercel.app/index2.html)**
 
